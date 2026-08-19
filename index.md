@@ -1,4 +1,4 @@
-Stephen Heagarty
+Stephen Heagarty  
 Data Science Student  
 UNC Charlotte
 ## About Me
