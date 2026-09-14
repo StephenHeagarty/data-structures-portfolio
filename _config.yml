@@ -1,5 +1,12 @@
 title: Data Science Portfolio
-description: Documenting my learning in Data Structures
+description: >
+  Documenting my learning in Data Structures.
+  <br><br>
+  <a href="https://github.com/StephenHeagarty">GitHub</a>
+  <br>
+  <a href="https://www.linkedin.com/in/stephen-heagarty-4399a5436/">LinkedIn</a>
+  <br>
+  <a href="https://docs.google.com/document/d/1G-9CD2_vYaJ58NOL2h7x7lJ3QdoFwg-XEs6x3sU3Hjg/edit?tab=t.0">Resume</a>
 theme: jekyll-theme-minimal
 logo: ./profile.png
 author: Stephen Heagarty
