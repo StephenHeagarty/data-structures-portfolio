@@ -6,5 +6,5 @@ Welcome to my Data Science Studio portfolio.
 This website will document my learning and projects throughout the semester.
 I am excited to learn about and practice statistics and coding!
 ## Portfolio
-- [Blog](blod.md)
+- [Blog](blog.md)
 - [Projects](projects.md)
