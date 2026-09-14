@@ -1,7 +1,7 @@
 title: Data Science Portfolio
 description: Documenting my learning in Data Structures
 theme: jekyll-theme-minimal
-logo: profile.png
+logo: ./profile.png
 author: Stephen Heagarty
 show_downloads: false
 github:
