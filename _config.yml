@@ -7,5 +7,6 @@ show_downloads: false
 github:
   is_project_page: false
 social_links:
-  github: https://github.com/StephenHeagarty
+  github_username: StephenHeagarty
+  linkedin_username: stephen-heagarty-4399a5436
   LinkedIn: https://www.linkedin.com/in/stephen-heagarty-4399a5436/
